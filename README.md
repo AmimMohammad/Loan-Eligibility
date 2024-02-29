@@ -1,1 +1,17 @@
-This code snippet is part of a loan eligibility calculator. It calculates monthly loan repayments using simple interest, checks if a user is eligible for a loan based on their income and existing loans, and adjusts interest rates based on loan tenure and credit score. The user inputs their financial details, and the program evaluates their loan eligibility, recommends a maximum loan amount considering their financial health, and explores different loan scenarios. This project demonstrates practical financial concepts through Python programming, making it a useful tool for understanding personal finance management.
+## Loan Eligibility Calculator Project
+
+- **Part of a loan eligibility calculator project.**
+- **Calculates monthly loan repayments** using simple interest.
+- **Checks user eligibility for a loan based on:**
+  - Income.
+  - Existing loans.
+- **Adjusts interest rates based on:**
+  - Loan tenure.
+  - Credit score.
+- **Requires user input of financial details to:**
+  - Evaluate loan eligibility.
+  - Recommend a maximum loan amount based on financial health.
+- **Explores different loan scenarios.**
+- **Demonstrates practical financial concepts** using Python programming.
+- **Serves as a useful tool** for understanding personal finance management.
+
