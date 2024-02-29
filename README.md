@@ -15,3 +15,7 @@
 - **Demonstrates practical financial concepts** using Python programming.
 - **Serves as a useful tool** for understanding personal finance management.
 
+<br/><br/>
+**OUTPUT**
+<br/><br/>
+![Project Image](https://imgur.com/jYaG8zJ.png)
